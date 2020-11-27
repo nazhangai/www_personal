@@ -2,27 +2,27 @@ papers:
 
   - title: "Non-Asymptotic Confidence Intervals of Off-Policy Evaluation: Primal and Dual Bounds"
     authors: ""
-    venue: "ICLR 2021, submission"
+    venue: "International Conference on Learning Representations (ICLR) 2021, submission"
     paper_pdf: ""
     selected: y
 
   - title: "Certified Monotonic Neural Networks."
     authors: "Xingchao Liu, Xing Han, Na Zhang, Qiang Liu"
-    venue: "NeurIPS 2020."
+    venue: "Advances in Neural Information Processing Systems (NeurIPS) 2020"
     paper_pdf: ""
     code: ""
     selected: y
 
   - title: "Off-Policy Interval Estimation with Lipschitz Value Iteration."
     authors: "Ziyang Tang, Yihao Feng, Na Zhang, Qiang Liu"
-    venue: "NeurIPS 2020."
+    venue: "Advances in Neural Information Processing Systems (NeurIPS) 2020"
     paper_pdf: ""
     code: ""
     selected: y
 
   - title: "Transparent Interpretation with Knockout."
     authors: "Xing Han, Yihao Feng, Na Zhang, Qiang Liu"
-    venue: "ICML 2020, workshop on interpretability in machine learning"
+    venue: "International Conference on Machine Learning (ICML) 2020, workshop on interpretability in machine learning"
     paper_pdf: ""
     code: ""
     selected: y
