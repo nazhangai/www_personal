@@ -8,7 +8,7 @@ papers:
 
   - title: "Certified Monotonic Neural Networks"
     authors: "Xingchao Liu, Xing Han, Na Zhang, Qiang Liu"
-    venue: "Advances in Neural Information Processing Systems (NeurIPS), 2020"
+    venue: "Advances in Neural Information Processing Systems (NeurIPS), 2020, Spotlight"
     paper_pdf: ""
     code: ""
     selected: y
